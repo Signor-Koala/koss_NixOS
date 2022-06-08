@@ -1,2 +1,2 @@
-# koss_NixOS
-Presentation on NixOS for the task rounf of KOSS
+# NixOS
+A short presentation on NixOS for the task round of KOSS
